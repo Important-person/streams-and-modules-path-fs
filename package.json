@@ -1,0 +1,15 @@
+{
+  "name": "streams-and-modules-path-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "command": "./index.js",
+    "analysis": "./analysis.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
